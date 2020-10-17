@@ -7,7 +7,8 @@ import { BuscarComponent } from './buscar/buscar.component';
 
 
 @NgModule({
-  declarations: [HomeComponent, 
+  declarations: [
+  HomeComponent, 
   PeliculaComponent,
   BuscarComponent],
   imports: [
